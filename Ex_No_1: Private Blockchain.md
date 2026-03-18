@@ -112,12 +112,12 @@ return name;
 }
 }
 ```
-OUTPUT
-# Deploying Transaction in Remix
+# OUTPUT
+## Deploying Transaction in Remix
 7
-# Contract Creation Output in Command Prompt
+ ## Contract Creation Output in Command Prompt
 <img width="1180" height="492" alt="image" src="https://github.com/user-attachments/assets/fc0eaa31-1340-4c3e-8410-3ca49a1f4dcd" />
-<a href="https://github.com/user-attachments/assets/306b8e6a-51b4-460d-9470-2b6131b2b94c">Image 1</a>
+
 ![2ec8a7ff-4938-46eb-baf6-50d53c1c3fd9](https://github.com/user-attachments/assets/05617c1a-7a25-44ac-a475-b8593600ba92)
 
 
