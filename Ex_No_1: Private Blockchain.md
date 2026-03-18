@@ -117,6 +117,8 @@ OUTPUT
 7
 # Contract Creation Output in Command Prompt
 <img width="1180" height="492" alt="image" src="https://github.com/user-attachments/assets/fc0eaa31-1340-4c3e-8410-3ca49a1f4dcd" />
+![4d9d378f-f7ba-410a-8ca0-1034e6562970](https://github.com/user-attachments/assets/df0521bb-9170-41ae-a341-d389d6fb2342)
+![2ec8a7ff-4938-46eb-baf6-50d53c1c3fd9](https://github.com/user-attachments/assets/5a6a2b13-a72b-4786-804f-eff00f0dcff7)
 
 RESULT: Thus, the Private Blockchain is created, nodes are added with accounts, and Ether is transferred
 into it by creating and deploying Smart contract successfully
