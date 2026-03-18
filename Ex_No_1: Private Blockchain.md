@@ -117,6 +117,7 @@ return name;
 7
  ## Contract Creation Output in Command Prompt
 <img width="1180" height="492" alt="image" src="https://github.com/user-attachments/assets/fc0eaa31-1340-4c3e-8410-3ca49a1f4dcd" />
+![4d9d378f-f7ba-410a-8ca0-1034e6562970](https://github.com/user-attachments/assets/21c3ce5d-2d91-45c5-8544-6ffc2023e05f)
 
 ![2ec8a7ff-4938-46eb-baf6-50d53c1c3fd9](https://github.com/user-attachments/assets/05617c1a-7a25-44ac-a475-b8593600ba92)
 
